@@ -1,25 +1,26 @@
 # PowerBI
-Super Store 
+Super Store :
+
 The objective can be broken down into the following detailed components:
 
-1: Dashboard Creation: Identify the KPIs, design an intutive and visually appealing dashboard,add interactive visulizations and filterinf capabilities to allow 
-                                      users to exploer the data at various leves of granularity.
+1: Dashboard Creation: Identify the KPIs, design an intutive and visually appealing dashboard,add interactive visulizations and filtering capabilities to allow 
+   users to exploer the data at various leves of granularity.
 
 2:Data Analysis: Provide valuable insights to business entities regrading the effectiveness of their sales strategies through visulization and charts.
 
 3:Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days.
 
 4: Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the
-                                                                         supermarket's goals for growth, efficiency, and customer statisfaction.
+  supermarket's goals for growth, efficiency, and customer statisfaction.
 
 
 
-Amazon Prime Dashboard
+Amazon Prime Dashboard:
+
 This project aims to create an interactive, intuitive dashboard for visualizing key performance indicators (KPIs) of Amazon Prime content, including ratings, TRP, release dates, and regional performance. The dashboard provides actionable insights for content analysis, supporting Amazon Prime's strategic goals for growth, efficiency, and customer satisfaction.
 
 Project Objectives
 Interactive Visualizations
-
 Create interactive charts, graphs, and tables to allow users to explore data at various levels of granularity.
 Implement filtering capabilities by country, year, content type (movies or TV shows), and other relevant dimensions.
 Key Insights
